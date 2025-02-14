@@ -1,3 +1,7 @@
 *.java linguist-detectable=true
 *.cs linguist-detectable=true
 *.py linguist-detectable=true
+*.tex linguist-vendored
+*.html linguist-vendored
+*.ps1 linguist-vendored
+*.sh linguist-vendored
