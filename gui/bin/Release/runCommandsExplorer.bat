@@ -1,0 +1,1 @@
+cd.. & cd.. & cd.. & cd portablemc-main & cd minecraft & explorer .& exit

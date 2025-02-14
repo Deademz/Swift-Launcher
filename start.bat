@@ -1,0 +1,1 @@
+start .\gui\bin\Release\gui.exe

@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\CoreLauncher\gui\bin\Release\gui.exe.config
+C:\Users\Asus\Desktop\CoreLauncher\gui\bin\Release\gui.exe
+C:\Users\Asus\Desktop\CoreLauncher\gui\bin\Release\gui.pdb
+C:\Users\Asus\Desktop\CoreLauncher\gui\obj\Release\gui.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CoreLauncher\gui\obj\Release\gui.Form1.resources
+C:\Users\Asus\Desktop\CoreLauncher\gui\obj\Release\gui.Properties.Resources.resources
+C:\Users\Asus\Desktop\CoreLauncher\gui\obj\Release\gui.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\CoreLauncher\gui\obj\Release\gui.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CoreLauncher\gui\obj\Release\gui.exe
+C:\Users\Asus\Desktop\CoreLauncher\gui\obj\Release\gui.pdb
+C:\Users\Asus\Desktop\CoreLauncher\gui\bin\Release\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\CoreLauncher\gui\bin\Release\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\CoreLauncher\gui\obj\Release\gui.csproj.Up2Date

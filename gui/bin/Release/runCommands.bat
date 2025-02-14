@@ -1,0 +1,1 @@
+cd.. & cd.. & cd.. & cd portablemc-main & .\pypoetry\venv\Scripts\poetry.exe run portablemc --main-dir "C:\Users\Asus\Desktop\swift launcher\portablemc-main\minecraft" --work-dir "C:\Users\Asus\Desktop\swift launcher\portablemc-main\minecraft" start "--jvm-args=-Xmx8G" 1.21.4 -u Deademzr -i dffe9810-b9b8-0378-d532-1cafc53696a0& exit
