@@ -1,4 +1,4 @@
-For launching the launcher, there is a ".bat" file in the initial folder that starts the interface. 
+For launching the launcher, there is a "start.bat" file in the initial folder that starts the interface. 
 If the interface does not launch, go to the "portablemc-main" folder and run "start_mine.py".
 
 To run Minecraft, Python and Java are required.
